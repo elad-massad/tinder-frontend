@@ -2,8 +2,8 @@
 
 A Tinder clone app using M.E.R.N technologies to implement a fully working fullstack app
 
-The frontend is a React App utalizing HTML and CSS formating to display a Tinder like card with general info on
-a user and swipe buttons 
+The frontend is a React App utilizing HTML and CSS formating to display a Tinder like card with general info on
+a user and swipe buttons
 
 To run the application type in Terminal npm start
 
